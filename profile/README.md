@@ -42,7 +42,7 @@ BioDataLab.id follows a progressive learning path:
 
 | Repository | Description |
 |---|---|
-| [Starter](...) | Guided biological data analysis projects for beginners |
+| [Starter](https://github.com/BioDataLab-id/starter) | Guided biological data analysis projects for beginners |
 | [Beginner](...) | More independent biological data analysis projects |
 | [Specialization](...) | Domain specific computational biology and data science projects |
 
